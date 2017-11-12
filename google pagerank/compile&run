@@ -1,0 +1,9 @@
+To compile the code:
+1) put makefile, pagerank123.cpp, pagerank4.cpp, pagerank5.cpp in your workspace
+2) type “make” in terminal, make sure the Linux system have g++ compiler
+3) you should find pagerank123.x, pagerank4.x, pagerank5.x, in your workspace
+
+To run the code:
+1) for question 1-3, type ./pagerank123.cpp in terminal, then hit enter
+2) for question 4, type ./pagerank4.cpp in terminal, then hit enter
+3) for question 5, type ./pagerank5.cpp in terminal, then hit enter

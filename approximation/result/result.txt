@@ -1,0 +1,57 @@
+Question1 :
+Question2 :
+
+conditionNumber =
+
+    3.1662
+
+Elapsed time = 0.015910
+Least squared error is 5.171333
+Elapsed time = 0.017252
+Least squared error is 5.171333
+
+When nbin= 10
+Cholesky decomposition least squared error  is 5.171333
+time spent: 0.004082
+QR algorithm least squared error  is 5.171333
+time spent: 0.007307
+When nbin= 20
+Cholesky decomposition least squared error  is 4.901212
+time spent: 0.000293
+QR algorithm least squared error  is 4.901212
+time spent: 0.013805
+When nbin= 30
+Cholesky decomposition least squared error  is 4.773524
+time spent: 0.000322
+QR algorithm least squared error  is 4.773524
+time spent: 0.016789
+When nbin= 40
+Cholesky decomposition least squared error  is 4.611320
+time spent: 0.000462
+QR algorithm least squared error  is 4.611320
+time spent: 0.016973
+When nbin= 50
+Cholesky decomposition least squared error  is 4.525486
+time spent: 0.000481
+QR algorithm least squared error  is 4.525486
+time spent: 0.008599
+
+Question3 :
+When p= 0, least squared error  is 12.200571
+When p= 1, least squared error  is 6.391435
+When p= 2, least squared error  is 5.171333
+When p= 3, least squared error  is 5.004788
+When p= 4, least squared error  is 4.985118
+When p= 5, least squared error  is 4.931477
+
+Question4 :
+When nbin= 10, least squared error  is 5.171333
+When nbin= 20, least squared error  is 4.901212
+When nbin= 30, least squared error  is 4.773524
+When nbin= 40, least squared error  is 4.611320
+When nbin= 50, least squared error  is 4.525486
+When nbin= 60, least squared error  is 4.474111
+When nbin= 70, least squared error  is 4.233525
+When nbin= 80, least squared error  is 4.214192
+When nbin= 90, least squared error  is 4.104641
+When nbin= 100, least squared error  is 3.953271

@@ -1,0 +1,25 @@
+Question 1
+ Part a.
+ info :             0
+ matrix solving is successful
+ The l-infinite error norm is:  4.63091141118166982E+084
+
+ Question 1
+ Part b.
+ info :             0
+ matrix solving is successful
+ info :             0
+ matrix solving is successful
+ The solution to Ax=b is(in the form x1 x2):
+   3.9398815872109596       0.49017208181081900     
+ The solution to Ay=c is(in the form y1 y2):
+   2.8999901054443131        2.0000144245925258    
+ 
+ Question 2
+ Part a.
+ info :             0
+ matrix solving is successful
+ info :             0
+ matrix solving is successful
+ The l2 error norm is:  1.04148151432413399E-015
+
